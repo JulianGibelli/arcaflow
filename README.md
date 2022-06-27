@@ -1,5 +1,6 @@
-#ARCAFLOW V1.0
-###Game made in assembly TASM X8086/8088
+# ARCAFLOW V1.0
+
+### Game made in assembly TASM X8086/8088
 
 **Steps for installation**
 
